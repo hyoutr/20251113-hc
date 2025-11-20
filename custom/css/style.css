@@ -114,7 +114,7 @@ footer {
   
   /* 02. フッター段落の幅と行間設定 */
   footer p {
-    width: 600px;         /* 段落幅を600pxに固定 */
+    width: 1000px;         /* 段落幅を600pxに固定 */
     margin: auto;         /* ページ中央に配置 */
     line-height: 1.6;     /* 行間を広めに設定 */
     color:#fff
